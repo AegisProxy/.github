@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">AegisProxy</title>
+  <desc id="desc">AegisProxy wordmark with a shield emblem</desc>
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0B2E4A"/>
+      <stop offset="100%" stop-color="#1C6BA0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="360" fill="none"/>
+  <g transform="translate(90,70)">
+    <path d="M140 0 L240 40 V150 C240 220 190 260 140 280 C90 260 40 220 40 150 V40 L140 0 Z" fill="url(#g)"/>
+    <path d="M140 28 L214 58 V146 C214 196 177 224 140 244 C103 224 66 196 66 146 V58 L140 28 Z" fill="#0F2133"/>
+    <path d="M140 58 L194 80 V140 C194 176 168 198 140 214 C112 198 86 176 86 140 V80 L140 58 Z" fill="#1C6BA0"/>
+    <path d="M140 92 L168 104 V138 C168 156 154 170 140 178 C126 170 112 156 112 138 V104 L140 92 Z" fill="#E6F4FF"/>
+  </g>
+  <g font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" fill="#0B2E4A">
+    <text x="380" y="170" font-size="96" font-weight="700" letter-spacing="2">AegisProxy</text>
+    <text x="382" y="230" font-size="28" font-weight="500" fill="#1C6BA0" letter-spacing="4">UNIVERSAL AI DATA GOVERNANCE</text>
+  </g>
+</svg>

@@ -1,12 +1,6 @@
 <div align="center">
 
-_    _____  ____ ___ ____    ____  ____   _____  ______   __
-     / \  | ____|/ ___|_ _/ ___|  |  _ \|  _ \ / _ \ \/ /\ \ \ / /
-    / _ \ |  _| | |  _ | |\___ \  | |_) | |_) | | | \  /  \ \ V / 
-   / ___ \| |___| |_| || | ___) | |  __/|  _ <| |_| /  \   \ | |  
-  /_/   \_\_____|\____|___|____/  |_|   |_| \_\\___/_/\_\   |_|  
-                                                                  
-  [ ================== UNIVERSAL AI DATA GOVERNANCE ================== ]
+<img src="./assets/aegisproxy-logo.svg" alt="AegisProxy" width="720" />
 
 ### Universal, Local-First AI Data Governance
 
